@@ -13,7 +13,7 @@
 		<Type>Executable</Type>
 		<Info>http://www.haxe.org</Info>
 		<Urls>
-			<Url>http://haxe.org/website-content/downloads/3.4.7/downloads/haxe-3.4.7-win.exe</Url>
+			<Url>https://github.com/HaxeFoundation/haxe/releases/download/3.4.7/haxe-3.4.7-win.exe</Url>
 		</Urls>
 	</Entry>
 	<Entry>
@@ -29,7 +29,7 @@
 		<Type>Executable</Type>
 		<Info>http://www.haxe.org</Info>
 		<Urls>
-			<Url>http://haxe.org/website-content/downloads/3.4.7/downloads/haxe-3.4.7-win64.exe</Url>
+			<Url>https://github.com/HaxeFoundation/haxe/releases/download/3.4.7/haxe-3.4.7-win64.exe</Url>
 		</Urls>
 	</Entry>
 	<Entry>
